@@ -1,2 +1,2 @@
 # say-shalom
-the command-line tool that says shalom to world 😊	
+the command-line tool that says "Shalom!" to World 😊	
