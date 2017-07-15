@@ -1,6 +1,6 @@
 {
   "name": "say-shalom",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "the command-line tool that says \"Shalom!\" to World :blush:",
   "main": "dist/index.js",
   "scripts": {
@@ -32,5 +32,6 @@
     "eslint-config-airbnb-base": "^11.2.0",
     "eslint-plugin-jest": "^20.0.3",
     "jest": "^20.0.4"
-  }
+  },
+  "dependencies": {}
 }
