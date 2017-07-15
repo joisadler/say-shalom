@@ -1,8 +1,8 @@
 {
   "name": "say-shalom",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "the command-line tool that says \"Shalom!\" to World :blush:",
-  "main": "dist/index.js",
+  "main": "dist/shalom.js",
   "scripts": {
     "test": "jest",
     "build": "NODE_ENV=production babel src --out-dir dist --source-maps inline",

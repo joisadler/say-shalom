@@ -1,5 +1,5 @@
 #!/usr/bin/env node
 
-import shalom from './index';
+import shalom from './shalom';
 
 console.log(shalom());
