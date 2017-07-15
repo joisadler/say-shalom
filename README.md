@@ -10,5 +10,5 @@ Installation:
 
 Usage:
 
-'$ say-shalom'
+``$ say-shalom`
 `Shalom, World!`
