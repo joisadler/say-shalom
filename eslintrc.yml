@@ -2,6 +2,7 @@
 
 plugins:
   - jest
+  - import
 
 parser: 'babel-eslint'
 

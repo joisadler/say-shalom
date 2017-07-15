@@ -1,6 +1,6 @@
 {
   "name": "say-shalom",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "the command-line tool that says \"Shalom!\" to World :blush:",
   "main": "dist/index.js",
   "scripts": {
@@ -9,14 +9,16 @@
     "prepublish": "npm run build"
   },
   "bin": {
-    "say-shalom": "./bin.js"
+    "say-shalom": "dist/bin.js"
   },
+  "preferGlobal": true,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/joisadler/say-shalom.git"
   },
   "keywords": [
-    "shalom"
+    "shalom",
+    "helloworld"
   ],
   "author": "Yossi Adler <joisadler@gmail.com>",
   "license": "ISC",
@@ -30,6 +32,7 @@
     "babel-preset-stage-0": "^6.24.1",
     "eslint": "^4.2.0",
     "eslint-config-airbnb-base": "^11.2.0",
+    "eslint-plugin-import": "^2.7.0",
     "eslint-plugin-jest": "^20.0.3",
     "jest": "^20.0.4"
   },
