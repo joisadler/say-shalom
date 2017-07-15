@@ -11,4 +11,5 @@ Installation:
 Usage:
 
 `$ say-shalom`
+
 `Shalom, World!`
