@@ -1,6 +1,6 @@
 {
   "name": "say-shalom",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "the command-line tool that says \"Shalom!\" to World :blush:",
   "main": "dist/shalom.js",
   "scripts": {
